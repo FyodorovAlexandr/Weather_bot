@@ -40,7 +40,7 @@ public class Main {
 
                 String answer = "";
 
-                if("Start".equals(message.text())){
+                if("/start".equals(message.text())){
                     answer = "Привет! Я могу показать прогноз погоды.";
                 }else if (message.location() != null) {
                     Location location = message.location();
