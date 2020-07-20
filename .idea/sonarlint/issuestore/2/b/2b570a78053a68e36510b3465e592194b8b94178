@@ -1,0 +1,13 @@
+
+r	java:S116"VRename this field "pressure_mm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(θΈω―8ς΄§Λ¶.
+v	java:S116"URename this field "wind_speed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«έΟ”ύÿÿÿÿ8κς¥Λ¶.
+v	java:S116"URename this field "feels_like" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ζ¶όÿÿÿÿ8Ή²¤Λ¶.
+l	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΉΖ±(8βάªΛ¶.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•μÿΌϊÿÿÿÿ8βάªΛ¶.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ξ Ο©ψÿÿÿÿ8βάªΛ¶.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄ΔΞόÿÿÿÿ8βάªΛ¶.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•μÿΌϊÿÿÿÿ8βάªΛ¶.
+o	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΑÒ”ϋÿÿÿÿ8βάªΛ¶.
+i	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΉΖ±(8βάªΛ¶.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΡΪ¨Σ8βάªΛ¶.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(΄ΔΞόÿÿÿÿ8βάªΛ¶.
